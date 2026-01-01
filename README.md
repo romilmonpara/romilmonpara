@@ -14,6 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=romilmonpara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github.com/users/romilmonpara/achievements/pull-shark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=romilmonpara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
